@@ -12,9 +12,8 @@
 ## Why Service-Oriented Architecture Is Important
 ![SOA](https://miro.medium.com/max/1220/1*QpkU690MioKK7lHwLE0_Bg.png)
 
-#### There are many [benefits to service-oriented architecture](https://www.bmc.com/blogs/service-oriented-architecture-overview/), especially in a web service based business. We’ll outline a few of those benefits here, in brief:
-
-#### Use Service-Oriented Architecture to create reusable code: Not only does this cut down on time spent on the development process, but there’s no reason to reinvent the coding wheel every time you need to create a new service or process. Service-Oriented Architecture also allows for using multiple coding languages because everything runs through a central interface.
+#### There are many [benefits to service-oriented architecture](https://www.bmc.com/blogs/service-oriented-architecture-overview/), especially in a web service based business. We’ll outline a  Use Service-Oriented Architecture to create reusable code: 
+#### Not only does this cut down on time spent on the development process, but there’s no reason to reinvent the coding wheel every time you need to create a new service or process. Service-Oriented Architecture also allows for using multiple coding languages because everything runs through a central interface.
 
 #### Use Service-Oriented Architecture to promote interaction: With Service-Oriented Architecture, a standard form of communication is put in place, allowing the various systems and platforms to function independent of each other. With this interaction, Service-Oriented Architecture is also able to work around firewalls, allowing “companies to share services that are vital to operations.”
 
@@ -46,7 +45,7 @@
 
 #### Evolutionary refinementEach of these core values can be seen on a continuum from older format distributed computing to Service-Oriented Architecture.
 
-### Implementing Service-Oriented Architecture
+## Implementing Service-Oriented Architecture :
 
 
 #### When it comes to implementing service-oriented architecture (SOA), there is a wide range of technologies that can be used, depending on what your end goal is and what you’re trying to accomplish.
@@ -60,10 +59,10 @@
 ### There are two major roles within Service-oriented Architecture: 
 
 ### 1) Service provider:
- #### The service provider is the maintainer of the s    ervice and the organization that makes available one or more services for others to use. To advertise services, the provider can publish them in a registry, together with a service contract that specifies the nature of the service, how to use it, the requirements for the service, and the fees charged
+ * The service provider is the maintainer of the s    ervice and the organization that makes available one or more services for others to use. To advertise services, the provider can publish them in a registry, together with a service contract that specifies the nature of the service, how to use it, the requirements for the service, and the fees charged
 
  ### 2)  Service consumer: 
- #### The service consumer can locate the service metadata in the registry and develop the required client components to bind and use the service.
+ - The service consumer can locate the service metadata in the registry and develop the required client components to bind and use the service.
 
  ![Services provider & consumer](https://media.geeksforgeeks.org/wp-content/uploads/Screenshot-245.png)
 
@@ -91,26 +90,26 @@
 ### Advantages of SOA: 
 
 ### 1) Service reusability:
-#### In SOA, applications are made from existing services. Thus, services can be reused to make many applications.
+- In SOA, applications are made from existing services. Thus, services can be reused to make many applications.
 ### 2) Easy maintenance:
-#### As services are independent of each other they can be updated and modified easily without affecting other services.
+- As services are independent of each other they can be updated and modified easily without affecting other services.
 ### 3) Platform independent: 
-#### SOA allows making a complex application by combining services picked from different sources, independent of the platform.
+- SOA allows making a complex application by combining services picked from different sources, independent of the platform.
 ### 4) Availability:
-#### SOA facilities are easily available to anyone on request.
+- SOA facilities are easily available to anyone on request.
 ### 5) Reliability: 
-#### SOA applications are more reliable because it is easy to debug small services rather than huge codes
+-  SOA applications are more reliable because it is easy to debug small services rather than huge codes
 ### 6) Scalability: 
-#### Services can run on different servers within an environment, this increases scalability
+- Services can run on different servers within an environment, this increases scalability
 ### Disadvantages of SOA: 
 
 
 ### 1)  High overhead:
-#### A validation of input parameters of services is done whenever services interact this decreases performance as it increases load and response time.
+- A validation of input parameters of services is done whenever services interact this decreases performance as it increases load and response time.
 ### 2) High investment: 
-#### A huge initial investment is required for SOA.
+- A huge initial investment is required for SOA.
 ### 3) Complex service management: 
-#### When services interact they exchange messages to tasks. the number of messages may go in millions. It becomes a cumbersome task to handle a large number of messages.
+- When services interact they exchange messages to tasks. the number of messages may go in millions. It becomes a cumbersome task to handle a large number of messages.
 ### Practical applications of SOA: 
 * SOA is used in many ways around us whether it is mentioned or not. 
 
