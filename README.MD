@@ -7,12 +7,12 @@
 
 ### What Is Service-Oriented Architecture   ?
 
-##### Service-Oriented Architecture (SOA) is a style of software design where services are provided to the other components by application components, through a communication protocol over a network. Its principles are independent of vendors and other technologies. (In service oriented architecture), a number of services communicate with each other, in one of two ways: through passing data or through two or more services coordinating an activity. This is just one definition of Service-Oriented Architecture. (An article on Wikipedia goes into much more detail).
+##### Service-Oriented Architecture (SOA) is a style of software design where services are provided to the other components by application components, through a communication protocol over a network. Its principles are independent of vendors and other technologies. (In service oriented architecture), a number of services communicate with each other, in one of two ways: through passing data or through two or more services coordinating an activity. This is just one definition of Service-Oriented Architecture. [An article on Wikipedia goes into much more detail](https://en.wikipedia.org/wiki/Service-oriented_architecture#Event-driven_architectures).
 
 ## Why Service-Oriented Architecture Is Important
 ![SOA](https://miro.medium.com/max/1220/1*QpkU690MioKK7lHwLE0_Bg.png)
 
-#### There are many benefits to service-oriented architecture, especially in a web service based business. We’ll outline a few of those benefits here, in brief:
+#### There are many [benefits to service-oriented architecture](https://www.bmc.com/blogs/service-oriented-architecture-overview/), especially in a web service based business. We’ll outline a few of those benefits here, in brief:
 
 #### Use Service-Oriented Architecture to create reusable code: Not only does this cut down on time spent on the development process, but there’s no reason to reinvent the coding wheel every time you need to create a new service or process. Service-Oriented Architecture also allows for using multiple coding languages because everything runs through a central interface.
 
@@ -53,7 +53,7 @@
 
 #### Typically, Service-Oriented Architecture is implemented with web services, which makes the “functional building blocks accessible over standard internet protocols.”
 
-#### An example of a web service standard is (SOAP), which stands for Simple Object Access Protocol. In a nutshell, SOAP “is a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks. Although SOAP wasn’t well-received at first, since 2003 it has gained more popularity and is becoming more widely used and accepted. Other options for implementing Service-Oriented Architecture include Jini, COBRA, or REST.
+#### An example of a web service standard is [SOAP](https://en.wikipedia.org/wiki/SOAP), which stands for Simple Object Access Protocol. In a nutshell, SOAP “is a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks. Although SOAP wasn’t well-received at first, since 2003 it has gained more popularity and is becoming more widely used and accepted. Other options for implementing Service-Oriented Architecture include Jini, COBRA, or REST.
 
 #### It’s important to note that architectures can “operate independently of specific technologies,” which means they can be implemented in a variety of ways, including messaging, such as ActiveMQ; Apache Thrift; and SORCER.
 
