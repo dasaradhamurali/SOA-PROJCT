@@ -1,1 +1,1 @@
-console.log(atlas)
+console.log('hello world');
