@@ -116,4 +116,4 @@
 * SOA infrastructure is used by many armies and air forces to deploy situational awareness systems.
 * SOA is used to improve healthcare delivery.
 * Nowadays many apps are games and they use inbuilt functions to run. For example, an app might need GPS so it uses the inbuilt GPS functions of the device. This is SOA in mobile solutions.
-* SOA helps maintain museums a virtualized storage pool for their information and content.
+* SOA helps maintain museums  a virtualized storage pool for their information and content.
