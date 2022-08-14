@@ -117,3 +117,11 @@
 * SOA is used to improve healthcare delivery.
 * Nowadays many apps are games and they use inbuilt functions to run. For example, an app might need GPS so it uses the inbuilt GPS functions of the device. This is SOA in mobile solutions.
 * SOA helps maintain museums a virtualized storage pool for their information and content.
+
+##  References:-
+* [medium(SOA)](https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec).
+* [geeksforgeeks(SOA)](https://www.geeksforgeeks.org/service-oriented-architecture/)
+* [TEACHERGET .I/O](https://www.techtarget.com/whatis/definition/input-output-I-O)
+
+
+
